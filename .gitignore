@@ -56,3 +56,9 @@
 
 # Ignore specific user settings
 /settings.json
+
+/devel/
+/lcm/
+/log/
+.catkin_workspace
+foot_pos.txt
